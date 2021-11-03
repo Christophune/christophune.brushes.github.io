@@ -1,6 +1,5 @@
 # christophune.brushes.github.io
 
-<!doctype html>
 <html>
 <body
 style="background-color:white;">
